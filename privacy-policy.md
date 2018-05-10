@@ -255,6 +255,14 @@ Service.
 
 	For more information on the privacy practices of Google, please visit the
 	Google Privacy Policy: [Privacy Policy] —[Opt Out].
+	
+### Contacting the User
+
+* **Mailing list or newsletter (this Application)**
+
+	By registering on the mailing list or for the newsletter, the User’s email address will be added to the contact list of those who may receive email messages containing information of commercial or promotional nature concerning this Application. Your email address might also be added to this list as a result of signing up to this Application or after making a purchase.
+	
+	Personal Data collected: email address. 
 
 ### Hosting and backend infrastructure
 
