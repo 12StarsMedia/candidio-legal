@@ -281,7 +281,7 @@ Which Personal Data are processed depends on the characteristics and mode of imp
 
 	Place of processing: See the Bugsnag privacy policy – [Privacy Policy]
 	
-* **New Relic (New Relic)
+* **New Relic (New Relic)**
 	
 	New Relic is a monitoring service provided by New Relic Inc.
 	
