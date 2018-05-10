@@ -319,13 +319,14 @@ These services may also collect data concerning the date and time when the messa
 
 	Place of processing: See the Podio privacy policy – [Privacy Policy]
 
-### Managing support and contact requests
-This type of services allows this Application to manage support and contact requests received via email or by other means, such as the contact form.
-The Personal Data processed depend on the information provided by the User in the messages and the means used for communication (e.g. email address).
+### User database management
 
-* **Intercom**
+This type of services allows the Owner to build user profiles by starting from an email address, a personal name, or other information that the User provides to this Application, as well as to track User activities through analytics features. This Personal Data may also be matched with publicly available information about the User (such as social networks' profiles) and used to build private profiles that the Owner can display and use for improving this Application.
+Some of these services may also enable the sending of timed messages to the User, such as emails based on specific actions performed on this Application.
 
-	Personal Data collected: Name, email address, company name
+* **Intercom (Intercom, Inc.)**
+
+	Personal Data collected: Name, email address, company name, various types of Data as specified in the privacy policy of the service.
 
 	Place of processing: See the Intercom privacy policy – [Privacy Policy]
 
