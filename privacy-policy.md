@@ -268,41 +268,66 @@ This type of service has the purpose of hosting Data and files that enable this 
 
 	Place of processing: See the Amazon privacy policy – [Privacy Policy].
 
-### Error Tracking
+### Infrastructure Monitoring
 
-This type of service collects errors in this Application and notifies developers via email or other notification service.
+This type of services allows this Application to monitor the use and behavior of its components so its performance, operation, maintenance and troubleshooting can be improved.
+Which Personal Data are processed depends on the characteristics and mode of implementation of these services, whose function is to filter the activities of this Application.
 
 * **Bugsnag**
 
 	Bugsnag is an error tracking service used to identify issues with this Application and provide developers with the ability to trace errors back the source location in the code base.
 
-	Personal Data collected: Name, email address, employer
+	Personal Data collected: Name, email address, organization
 
 	Place of processing: See the Bugsnag privacy policy – [Privacy Policy]
+	
+* **New Relic (New Relic)
+	
+	New Relic is a monitoring service provided by New Relic Inc.
+	
+	The way New Relic is integrated means that it filters all traffic of this Application, i.e., communication between the Application and the User's browser or device, while also allowing analytical data on this Application to be collected.
+	
+	Personal Data collected: various types of Data as specified in the privacy policy of the service. 
+	
+	Place of processing: US – [Privacy Policy](https://newrelic.com/privacy). 
+	
+* **Pingdom (Pingdom AB)**
 
-### Behavior Tracking
+	Pingdom is a monitoring service provided by Pingdom AB.
+	
+	Personal Data collected: Cookies and Usage Data. 
+	 
+	Place of processing: Sweden – [Privacy Policy](https://www.pingdom.com/legal/privacy-policy/).
 
-This type of service allows us to see how the User is utilizing this Application. This information provides us with knowledge of how to improve the service for the end user’s benefit.
-
-* **Intercom**
-
-	Personal Data collected: Name, email address, employer
-
-	Place of processing: See the Intercom privacy policy – [Privacy Policy]
-
-### Managing Contacts
+### Managing Contacts and sending messages
 
 This type of service makes it possible to manage a database of email contacts, phone contacts or any other contact information to communicate with the User.
 These services may also collect data concerning the date and time when the message was viewed by the User, as well as when the User interacted with it, such as by clicking on links included in the message.
 
-* **Podio**
+* **Postmark (Wildbit)**
+	Mailjet is an email address management and message sending service provided by Wildbit, LLC.
+	
+	Personal Data collected: name, email address.
+	
+	Place of processing: See the Postmark privacy policy: [Privacy Policy](https://wildbit.com/privacy-policy)
+
+* **Podio (Citrix)**
 
 	Podio supplies a web-based platform provided by Citrix for organizing team communication, business processes, data and content in project management workspaces.
 
-	Personal Data collected: Name, email address, employer
+	Personal Data collected: Name, email address, organization
 
 	Place of processing: See the Podio privacy policy – [Privacy Policy]
 
+### Managing support and contact requests
+This type of services allows this Application to manage support and contact requests received via email or by other means, such as the contact form.
+The Personal Data processed depend on the information provided by the User in the messages and the means used for communication (e.g. email address).
+
+* **Intercom**
+
+	Personal Data collected: Name, email address, organization
+
+	Place of processing: See the Intercom privacy policy – [Privacy Policy]
 
 ## Links To Other Sites
 
