@@ -12,7 +12,7 @@ We use your data to provide and improve the Service. By using the Service, you
 agree to the collection and use of information in accordance with this policy.
 Unless otherwise defined in this Privacy Policy, terms used in this Privacy
 Policy have the same meanings as in our Terms of Service, accessible from
-https://app.candidio.com
+https://github.com/12StarsMedia/candidio-legal/blob/master/terms-of-service.md
 
 ## Definitions
 
