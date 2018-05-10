@@ -204,7 +204,7 @@ page of your web browser.
 delete, or limit the use of your Personal Data.
 
 Whenever made possible, you can update your Personal Data directly within your account settings section. If you are unable to change your Personal Data,
-please contact us at dpo@12starsmedia.com to make the required changes.
+please contact us at privacy@12starsmedia.com to make the required changes.
 
 If you wish to be informed what Personal Data we hold about you and if you
 want it to be removed from our systems, please contact us.
@@ -367,5 +367,5 @@ page.
 
 If you have any questions about this Privacy Policy, please contact us:
 
-  * By email: dpo@12starsmedia.com
+  * By email: privacy@12starsmedia.com
   * By mail: 11787 Lantern Rd Suite 202, Fishers, Indiana, USA 46038
