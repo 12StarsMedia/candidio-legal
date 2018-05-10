@@ -277,7 +277,7 @@ Which Personal Data are processed depends on the characteristics and mode of imp
 
 	Bugsnag is an error tracking service used to identify issues with this Application and provide developers with the ability to trace errors back the source location in the code base.
 
-	Personal Data collected: Name, email address, organization
+	Personal Data collected: Name, email address, company name
 
 	Place of processing: See the Bugsnag privacy policy – [Privacy Policy]
 	
@@ -315,7 +315,7 @@ These services may also collect data concerning the date and time when the messa
 
 	Podio supplies a web-based platform provided by Citrix for organizing team communication, business processes, data and content in project management workspaces.
 
-	Personal Data collected: Name, email address, organization
+	Personal Data collected: Name, email address, company name
 
 	Place of processing: See the Podio privacy policy – [Privacy Policy]
 
@@ -325,7 +325,7 @@ The Personal Data processed depend on the information provided by the User in th
 
 * **Intercom**
 
-	Personal Data collected: Name, email address, organization
+	Personal Data collected: Name, email address, company name
 
 	Place of processing: See the Intercom privacy policy – [Privacy Policy]
 
