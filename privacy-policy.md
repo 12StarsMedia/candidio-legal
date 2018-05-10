@@ -281,7 +281,7 @@ This type of service has the purpose of hosting Data and files that enable this 
 This type of services allows this Application to monitor the use and behavior of its components so its performance, operation, maintenance and troubleshooting can be improved.
 Which Personal Data are processed depends on the characteristics and mode of implementation of these services, whose function is to filter the activities of this Application.
 
-* **Bugsnag**
+* **Bugsnag (Bugsnag, Inc.)**
 
 	Bugsnag is an error tracking service used to identify issues with this Application and provide developers with the ability to trace errors back the source location in the code base.
 
