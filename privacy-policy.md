@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Effective date: May 25, 2018
+Effective date: May 16, 2018
 
 Twelve Stars, LLC d/b/a 12 Stars Media ("12 Stars Media", "us", "we", or "our") operates the Candidio platform (the "Service").
 
